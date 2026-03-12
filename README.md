@@ -15,7 +15,8 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+samples, guidance on <img width="404" height="487" alt="crud" src="https://github.com/user-attachments/assets/708aad92-d052-4213-aced-57092a8e637b" />
+mobile development, and a full API reference.
 =======
 # crud-app
 This project is a Flutter mobile application that demonstrates the implementation of CRUD operations (Create, Read, Update, Delete) using a SQLite database for local data storage. The purpose of this application is to allow users to manage simple records consisting of name, email, and age.
