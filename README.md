@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sqlitecrudapp
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# crud-app
+This project is a Flutter mobile application that demonstrates the implementation of CRUD operations (Create, Read, Update, Delete) using a SQLite database for local data storage. The purpose of this application is to allow users to manage simple records consisting of name, email, and age.
+>>>>>>> 995ce07301fd1771c810a050d9d5d08bca09a784
